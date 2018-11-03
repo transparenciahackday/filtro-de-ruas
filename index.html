@@ -20,10 +20,11 @@
     <div class="wrap">
         <div id="filters" class="column">
             <h2>Mapa de ruas bem organizadas</h2>
-            <h5>Filtrar por:</h5>
+            <h5>Mostrar</h5>
             <ul>
-                <li><a href="">Ruas com nomes de Homens</a></li>
-                <li><a href="">Ruas com nomes de Mulheres</a></li>
+                <li><a href="#" id="all" onclick="javascript:selectAll();">Todas as Ruas</a></li>
+                <li><a href="#" id="male" onclick="javascript:selectM();">Ruas com nomes de Homens</a></li>
+                <li><a href="#" id="female" onclick="javascript:selectF();">Ruas com nomes de Mulheres</a></li>
             </ul>
         </div>
 
@@ -32,24 +33,42 @@
     </div><!-- .wrap -->
 
     <script>
-        var selectedGender = 0;
+        window.onload = function() {
+          layerF.setVisible(false);
+          layerM.setVisible(false);
+        };
         
-        function styleFunction(feature, resolution) {
+        function selectF() {
+          layerF.setVisible(true);
+          layerM.setVisible(false);
+        }
+        
+        function selectM() {
+          layerM.setVisible(true);
+          layerF.setVisible(false);
+        }
+        
+        function selectAll() {
+          layerM.setVisible(true);
+          layerF.setVisible(true);
+        }
+        
+        function styleF(feature, resolution) { 
             var res;
             var sexo = feature.get('sex');
             switch (sexo) {
-                case '0' :
+                case '0' : // hide male gender streets
                     res = new ol.style.Style({
                         stroke: new ol.style.Stroke({
-                            color: '#00ff00',
+                            color: 'rgba(0, 0, 255, 0)',
                             width: 2
                         })
                     });
                     break;
-                case '1' :
+                case '1' : // show female gender streets
                     res = new ol.style.Style({
                         stroke: new ol.style.Stroke({
-                            color: '#ff0000',
+                            color: 'rgba(212, 0, 0, 0.7)',
                             width: 2
                         })
                     });
@@ -64,7 +83,58 @@
                     break;
             }
             return [res];
-        }
+        };
+        
+        function styleM(feature, resolution) { 
+            var res;
+            var sexo = feature.get('sex');
+            switch (sexo) {
+                case '0' : // show male gender streets
+                    res = new ol.style.Style({
+                        stroke: new ol.style.Stroke({
+                            color: 'rgba(0, 0, 255, 0.5)',
+                            width: 2
+                        })
+                    });
+                    break;
+                case '1' : // show female gender streets
+                    res = new ol.style.Style({
+                        stroke: new ol.style.Stroke({
+                            color: 'rgba(212, 0, 0, 0)',
+                            width: 2
+                        })
+                    });
+                    break;
+                default:
+                    res = new ol.style.Style({
+                        stroke: new ol.style.Stroke({
+                            color: '#0000ff',
+                            width: 2
+                        })
+                    });
+                    break;
+            }
+            return [res];
+        };
+        
+        var layerM = new ol.layer.Vector({
+          title: 'Ruas Masculinas',
+          source: new ol.source.Vector({
+             url: 'geojson/ruasporto-com-sexo.geojson',
+             format: new ol.format.GeoJSON()
+          }),
+          style: styleM
+        });
+               
+               
+        var layerF = new ol.layer.Vector({
+          title: 'Ruas Femininas',
+          source: new ol.source.Vector({
+             url: 'geojson/ruasporto-com-sexo.geojson',
+             format: new ol.format.GeoJSON()
+          }),
+          style: styleF
+       })   
     
         var map = new ol.Map({
             target: 'map',
@@ -79,14 +149,8 @@
                      format: new ol.format.GeoJSON()
                   })
                }),
-               new ol.layer.Vector({
-                  title: 'Ruas',
-                  source: new ol.source.Vector({
-                     url: 'geojson/ruasporto-com-sexo.geojson',
-                     format: new ol.format.GeoJSON()
-                  }),
-                  style: styleFunction
-               })           
+               layerM,
+               layerF   
             ],
             view: new ol.View({
               center: ol.proj.fromLonLat([-8.64, 41.16 ]),
