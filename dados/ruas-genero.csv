@@ -124,10 +124,10 @@ Aliados,
 Aliança,
 Alijó,
 Aljubarrota,
-Almada,
+Almada,M
 Almas,
-Almeida Garrett,
-Almeida Valente,
+Almeida Garrett,M
+Almeida Valente,M
 Almoster,
 Alto,
 Alto da Arrábida,
@@ -137,13 +137,13 @@ Alto de Vila,
 Alto do Mato,
 Alto do Viso,
 Alvalade,
-Álvares Cabral,
+Álvares Cabral,M
 Álvaro de Castelões,M
 Álvaro Ferreira Alves,M
 Álvaro Gomes,M
 Álvaro Rodrigues,M
-Alves da Veiga,
-Alves Redol,
+Alves da Veiga,M
+Alves Redol,M
 Amadeu Sousa Cardoso,M
 Amália Luazes,F
 Amândio Galhano,M
@@ -160,7 +160,7 @@ Amieira,
 Amigos do Porto,
 Amor de Perdição,
 Amorim,
-Amorim de Carvalho,
+Amorim de Carvalho,M
 Amparo,
 Ana Plácido,F
 Anastácia,F
@@ -182,7 +182,7 @@ Anjo da Guarda,
 Anjos,
 Anselmo Braamcamp,M
 Antão,
-Antão de Almeida Garrett,
+Antão de Almeida Garrett,M
 Antas,
 Antero Antunes de Albuquerque,M
 Antero de Araújo,M
@@ -240,9 +240,9 @@ António Salgado Júnior,M
 António Sérgio,M
 António Soares Pacheco,M
 António Vieira,M
-Antunes,
-Antunes Guimarães,
-Aquilino Ribeiro,
+Antunes,M
+Antunes Guimarães,M
+Aquilino Ribeiro,M
 Arada,
 Arco da Noeda,
 Arcos,
@@ -250,8 +250,8 @@ Arcos da Ribeira,
 Areias,
 A Renascença Portuguesa,
 Areosa,
-Argentina,F
-Arístides de Sousa Mendes,
+Argentina,
+Arístides de Sousa Mendes,M
 Armando Alves Tavares,M
 Armando Campos,M
 Armando Cardoso,M
@@ -260,11 +260,11 @@ Armando Laroze Rocha,M
 Armando Pimentel,M
 Armazéns,
 Arménia,
-Arménio Losa,
+Arménio Losa,M
 Arnaldo Gama,M
 Arnaldo Leite,M
 Arouca,
-Arpad Szenes,
+Arpad Szenes,M
 Arrabalde,
 Arrábida,
 Arroios,
@@ -304,7 +304,7 @@ Aurora,F
 Aval de Baixo,
 Aval de Cima,
 Ave,
-Avelar Brotero,
+Avelar Brotero,M
 Avelino Ribeiro,M
 Avis,
 A Voz dos Ridículos,
@@ -313,8 +313,8 @@ Azálias,
 Azamor,
 Azenha,
 Azevedo,
-Azevedo Coutinho,
-Azevedo de Albuquerque,
+Azevedo Coutinho,M
+Azevedo de Albuquerque,M
 Azinhaga do Monte,
 Azinheiras,
 Baça,
@@ -336,25 +336,25 @@ Baltazar Falcão,M
 Banda de Ramalde,
 Bandeirinha,
 Banhos,
-Barata Feyo,
+Barata Feyo,M
 Barbosa de Castro,
-Barbosa Du Bocage,
+Barbosa Du Bocage,M
 Barredo,
 Barrocas,
 Barros,
-Barros Lima,
+Barros Lima,M
 Bartolomeu,M
 Bartolomeu Dias,M
 Bartolomeu Velho,M
-Basílio Teles,
+Basílio Teles,M
 Batalha,
 Bataria,
 Bataria da Vitória,
 Begónias,
 Beija-Flor,
 Bela,F
-Bela da Fontinha,F
-Bela Vista,F
+Bela da Fontinha,
+Bela Vista,
 Belém,
 Belomonte,
 Belos Ares,
@@ -368,9 +368,9 @@ Bento da Vitória,M
 Bento de Jesus Caraça,M
 Bento Júnior,M
 Berlengas,
-Bernarda Ferreira Lacerda,
+Bernarda Ferreira Lacerda,F
 Bernardim Ribeiro,M
-Bernardino Machado,
+Bernardino Machado,M
 Bernardo,M
 Berta Alves de Sousa,F
 Bessa,
@@ -401,8 +401,8 @@ Bragas,
 Brás,
 Brás Cubas,
 Brasil,
-Breiner,
-Brito Capelo,
+Breiner,M
+Brito Capelo,M
 Buçaco,
 Bulhão Pato,
 Buraco,
@@ -415,7 +415,7 @@ Cadouços,
 Calçada,
 Caldas Xavier,
 Caldeireiros,
-Calouste Gulbenkian,
+Calouste Gulbenkian,M
 Calvário,
 Camarão,
 Câmara Pestana,
@@ -424,7 +424,7 @@ Camélias,
 Camilo,M
 Camilo Pessanha,M
 Caminho Novo,
-Camões,
+Camões,M
 Campanhã,
 Campeões Europeus Viena 87,
 Campinas,
@@ -445,7 +445,7 @@ Candemil,
 Cândida Alves,F
 Cândida Sá de Albergaria,F
 Cândido dos Reis,M
-Cantor Zeca Afonso,
+Cantor Zeca Afonso,M
 Capitães de Abril,
 Capuchinhos,
 Cardo,
@@ -472,15 +472,15 @@ Carquejeiras,
 Carregal,
 Carreiras,
 Carriçal,
-Carrilho Videira,
-Carrington da Costa,
-Carteado Mena,
+Carrilho Videira,M
+Carrington da Costa,M
+Carteado Mena,M
 Cartes,
 Carvalheiras,
 Carvalhido,
 Carvalho,
-Carvalho Araújo,
-Carvalho Barbosa,
+Carvalho Araújo,M
+Carvalho Barbosa,M
 Carvalhosa,
 Casal,
 Casal do Pedro,
@@ -549,12 +549,12 @@ Cima de Pereiró,
 Cima do Muro,
 Cimo de Vila,
 Circunvalação,
-Ciríaco Cardoso,
+Ciríaco Cardoso,M
 Cisnes,
 Clara,F
 Classes Obreiras,
 Cláudio Carneiro,M
-Clemente Meneres,
+Clemente Meneres,M
 Clérigos,
 Clube dos Fenianos,
 Clube Fluvial Portuense,
@@ -562,7 +562,7 @@ Côa,
 Codeçal,
 Coelhas,
 Coelho Lousada,
-Coelho Neto,
+Coelho Neto,M
 Colégio,
 Colónia Antero de Quental,
 Combatentes da Grande Guerra,
@@ -580,7 +580,7 @@ Cooperativa do Pego Negro,
 Cooperativa do Povo Portuense,
 Cordoaria Velha de Lordelo,
 Corgo,
-Corino de Andrade,
+Corino de Andrade,M
 Corpo da Guarda,
 Correia da Serra,
 Correia de Araújo,
@@ -659,8 +659,8 @@ Domingos de Azevedo,M
 Domingos Machado,M
 Domingos Pinho Brandão,M
 Domingos Sequeira,M
-Dominguez Alvarez,
-Dórdio Gomes,
+Dominguez Alvarez,M
+Dórdio Gomes,M
 Dores,
 Douro,
 Doze Casas,
@@ -670,7 +670,7 @@ Duarte Leite,M
 Duarte Lopes,M
 Duarte Pacheco Pereira,M
 Duruelo de La Sierra,
-Eça de Queirós,
+Eça de Queirós,M
 Eduardo Allen,M
 Eduardo Brazão,M
 Eduardo Santos Silva,M
@@ -1646,9 +1646,9 @@ Tânger,
 Tapada de Santo António,
 Tareija Vaz de Altaro,
 Teatro,
-Teixeira de Pascoais,
-Teixeira de Vasconcelos,
-Teixeira Lopes,
+Teixeira de Pascoais,M
+Teixeira de Vasconcelos,M
+Teixeira Lopes,M
 Tejo,
 Telheira,
 Teodoro Sousa Maldonado,M
@@ -1660,7 +1660,7 @@ Terreiro,
 Tiago de Almeida,M
 Tílias,
 Timor,
-Tirares,
+Tirares,F
 Tirso,
 Tito Fontes,M
 Tomás Gonzaga,M
@@ -1689,7 +1689,7 @@ Túnel das Antas II,
 Túnel das Goelas de Pau,
 Túnel dos Almadas,
 Universo,
-Valadim,
+Valadim,M
 Valdevez,
 Vale Formoso,
 Valongo,
@@ -1702,8 +1702,8 @@ Vasco da Gama,M
 Vasco Lima Couto,M
 Vasco Lobeira,M
 Vasco Valente,M
-Vasques de Mesquita,
-Veloso,
+Vasques de Mesquita,M
+Veloso,M
 Veloso Salgado,
 Veludo,
 Venezuela,
@@ -1722,8 +1722,8 @@ Vicente José de Carvalho,M
 Vidago,
 Vidal Pinheiro,M
 Videiras,
-Vieira da Silva,
-Vieira Portuense,
+Vieira da Silva,M
+Vieira Portuense,M
 Vigorosa,
 Vila Cova,
 Vila do Conde,
@@ -1731,7 +1731,7 @@ Vila Nova,
 Vila Nova de Foz Côa,
 Vilar,
 Vilarinha,
-Vilas Boas,
+Vilas Boas,M
 Vimara Peres,
 Vimeiro,
 Vimioso,
@@ -1745,7 +1745,7 @@ Vítor,M
 Vitória,F
 Vitorino Damásio,M
 Vitorino Nemésio,M
-Vizela,
+Vizela,M
 Vouga,
 Xavier Coutinho,M
 Zaire,
