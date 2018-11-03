@@ -12,9 +12,9 @@ Ainda está em curso e é de ficar atento ao [Twitter do Transparência Hackday 
 
 Na pasta `dados/` estão os datasets utilizados:
 
-* `ruas-genero.csv` - Lista com os nomes de ruas do Porto (apenas nomes, sem prefixos) e o género determinado
 * `nomes-genero.csv` - Lista de nomes próprios e o seu género (retirado do dataset de [nomes próprios](http://centraldedados.pt/nomes_proprios). Usado para gerar o `ruas-genero.csv`.
 * `ruas-porto.csv` - Lista de ruas do Porto (retirado do dataset de [códigos postais](http://centraldedados.pt/codigos_postais). Usado para gerar o `ruas-genero.csv`.
+* **`ruas-genero.csv`** - Lista com os nomes de ruas do Porto (apenas nomes, sem prefixos como "Rua" e "Dr.") e o género determinado. Gerado com o script em `scripts/lista-ruas-genero.py` para cruzar os dois datasets acima.
 
 # Autoria
 
