@@ -8,6 +8,14 @@ O objetivo é ter um mapa interativo que ilustre ruas particulares de acordo com
 
 Ainda está em curso e é de ficar atento ao [Twitter do Transparência Hackday Portugal](https://twitter.com/thackdaypt) para novidades neste empreendimento.
 
+## Dados
+
+Na pasta `dados/` estão os datasets utilizados:
+
+* `ruas-genero.csv` - Lista com os nomes de ruas do Porto (apenas nomes, sem prefixos) e o género determinado
+* `nomes-genero.csv` - Lista de nomes próprios e o seu género (retirado do dataset de [nomes próprios](http://centraldedados.pt/nomes_proprios). Usado para gerar o `ruas-genero.csv`.
+* `ruas-porto.csv` - Lista de ruas do Porto (retirado do dataset de [códigos postais](http://centraldedados.pt/codigos_postais). Usado para gerar o `ruas-genero.csv`.
+
 # Autoria
 
 * Jorge Gustavo Rocha
