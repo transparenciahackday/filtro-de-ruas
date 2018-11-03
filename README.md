@@ -1,6 +1,6 @@
 # Filtro de ruas
 
-Um mapa de ruas catalogadas por género e outros critérios. Iniciado no **Date With WikiData** em 3 de novembro de 2018.
+Um mapa de ruas do Porto catalogadas por género e outros critérios. Iniciado no **Date With WikiData** em 3 de novembro de 2018.
 
 O objetivo é ter um mapa interativo que ilustre ruas particulares de acordo com vários filtros. Começámos por fazer um filtro de género -- entre as ruas com nomes de pessoas, assinalar de forma distinta as ruas com nomes de mulheres e as com nomes de homens.
 
