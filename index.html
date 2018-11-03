@@ -17,23 +17,82 @@
 
 <body>
 
- <div class="filtros">
- </div>
+    <div class="wrap">
+        <div id="filters" class="column">
+            <h2>Mapa de ruas bem organizadas</h2>
+            <h5>Filtrar por:</h5>
+            <ul>
+                <li><a href="">Ruas com nomes de Homens</a></li>
+                <li><a href="">Ruas com nomes de Mulheres</a></li>
+            </ul>
+        </div>
 
- <div id="map" class="map"></div>
+        <div id="map" class="map column"></div>
+
+    </div><!-- .wrap -->
+
     <script>
-      var map = new ol.Map({
-        target: 'map',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          })
-        ],
-        view: new ol.View({
-          center: ol.proj.fromLonLat([-8.61, 41.14 ]),
-          zoom: 15
-        })
-      });
+        var selectedGender = 0;
+        
+        function styleFunction(feature, resolution) {
+            var res;
+            var sexo = feature.get('sex');
+            switch (sexo) {
+                case '0' :
+                    res = new ol.style.Style({
+                        stroke: new ol.style.Stroke({
+                            color: '#00ff00',
+                            width: 2
+                        })
+                    });
+                    break;
+                case '1' :
+                    res = new ol.style.Style({
+                        stroke: new ol.style.Stroke({
+                            color: '#ff0000',
+                            width: 2
+                        })
+                    });
+                    break;
+                default:
+                    res = new ol.style.Style({
+                        stroke: new ol.style.Stroke({
+                            color: '#0000ff',
+                            width: 2
+                        })
+                    });
+                    break;
+            }
+            return [res];
+        }
+    
+        var map = new ol.Map({
+            target: 'map',
+            layers: [
+              new ol.layer.Tile({
+                source: new ol.source.OSM()
+              }),
+              new ol.layer.Vector({
+                  title: 'Concelho',
+                  source: new ol.source.Vector({
+                     url: 'geojson/concelhoporto.geojson',
+                     format: new ol.format.GeoJSON()
+                  })
+               }),
+               new ol.layer.Vector({
+                  title: 'Ruas',
+                  source: new ol.source.Vector({
+                     url: 'geojson/ruasporto-com-sexo.geojson',
+                     format: new ol.format.GeoJSON()
+                  }),
+                  style: styleFunction
+               })           
+            ],
+            view: new ol.View({
+              center: ol.proj.fromLonLat([-8.64, 41.16 ]),
+              zoom: 14
+            })
+        });
     </script>
 
 
