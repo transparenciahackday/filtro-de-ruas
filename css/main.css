@@ -47,14 +47,92 @@ table {
 	border-spacing: 0;
 }
 
-/* Author's custom styles
+/* Type
 */
 
+@font-face {
+    font-family: 'Iosevka';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Iosevka'), url('/fontes/Iosevka_Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Iosevka';
+    font-weight: 300;
+    font-style: normal;
+    src: local('Iosevka Light'), url('/fontes/Iosevka_Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Iosevka';
+    font-weight: 700;
+    font-style: normal;
+    src: local('Iosevka Bold'), url('/fontes/Iosevka_Bold.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Iosevka', Roboto, DejaVu Sans, sans-serif;
+    font-size: 100%;
+    font-weight: 400;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+@media screen and (max-width: 39.9375em) { /* Small only */
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.5rem; }
+    h3 { font-size: 1.25rem; }
+    h4 { font-size: 1rem; }
+}
+@media screen and (min-width: 40em) { /* Medium only */
+    h1 { font-size: 3.5rem; }
+    h2 { font-size: 2.5rem; }
+    h3 { font-size: 1.75rem; }
+    h4 { font-size: 1.5rem; }
+}
+
+/* Custom styles
+*/
+
+html, body, .wrap {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+.column {
+    flex-basis:100%;
+}
+
+#filters {
+    background-color: #eee;
+    padding: 2.5rem 1rem;
+    max-width: 20%;
+}
+
+#filters h2 {
+    font-weight: 300;
+    margin-bottom: 1rem;
+}
+
+#filters h5 {
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
 
 
 #map {
-height: 800px;
-width: 100%;
+    height: 100%;
 }
-    
+
 

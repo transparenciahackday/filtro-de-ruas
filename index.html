@@ -17,21 +17,44 @@
 
 <body>
 
- <div class="filtros">
- </div>
+    <div class="wrap">
+        <div id="filters" class="column">
+            <h2>Mapa de ruas bem organizadas</h2>
+            <h5>Filtrar por:</h5>
+            <ul>
+                <li>Género</li>
+            </ul>
+        </div>
 
- <div id="map" class="map"></div>
+        <div id="map" class="map column"></div>
+
+    </div><!-- .wrap -->
+
     <script>
       var map = new ol.Map({
         target: 'map',
         layers: [
           new ol.layer.Tile({
             source: new ol.source.OSM()
-          })
+          }),
+          new ol.layer.Vector({
+              title: 'Concelho',
+              source: new ol.source.Vector({
+                 url: 'geojson/concelhoporto.geojson',
+                 format: new ol.format.GeoJSON()
+              })
+           }),
+           new ol.layer.Vector({
+              title: 'Ruas',
+              source: new ol.source.Vector({
+                 url: 'geojson/ruasporto.geojson',
+                 format: new ol.format.GeoJSON()
+              })
+           })           
         ],
         view: new ol.View({
-          center: ol.proj.fromLonLat([-8.61, 41.14 ]),
-          zoom: 15
+          center: ol.proj.fromLonLat([-8.64, 41.16 ]),
+          zoom: 14
         })
       });
     </script>
