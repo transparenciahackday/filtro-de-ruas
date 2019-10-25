@@ -100,6 +100,7 @@ Albufeira
 Alcácer Ceguér
 Alcaide de Faria
 Alcântara
+Alcino Soutinho
 Aldas
 Aldeia
 Alecrim
@@ -141,6 +142,7 @@ Alvalade
 Álvaro de Castelões
 Álvaro Ferreira Alves
 Álvaro Gomes
+Álvaro Portela
 Álvaro Rodrigues
 Alves da Veiga
 Alves Redol
@@ -156,7 +158,6 @@ Amendoeiras
 Américo
 Américo Gomes
 Amial
-Amieira
 Amigos do Porto
 Amor de Perdição
 Amorim
@@ -188,7 +189,10 @@ Antero Antunes de Albuquerque
 Antero de Araújo
 Antero de Figueiredo
 Antero de Quental
+Antigo Bairro da Areosa
+Antónia Adelaide Ferreira
 Antonino
+António Ámen
 António Aroso
 António Arroio
 António Augusto Pinto Félix
@@ -218,6 +222,7 @@ António Ferreira Braga
 António Ferreira Gomes
 António Galvão
 António Granjo
+António Joaquim da Silva Lopes
 António José da Costa
 António José da Silva
 António José de Almeida
@@ -597,6 +602,7 @@ Costa Barreto
 Costa Cabral
 Costa e Almeida
 Costa Júnior
+Costa Mendes
 Costa Nova
 Costibela
 Cotovias
@@ -735,8 +741,10 @@ Fernandes Tomás
 Fernando Azeredo Antas
 Fernando Cabral
 Fernando de Bulhões
+Fernando Lanhas
 Fernando Lopes Graça
 Fernando Magano
+Fernando Mendonça
 Fernando Moreira da Silva
 Fernando Pessoa
 Fernão Cardim
@@ -772,7 +780,7 @@ Florinha da Abrigada
 Fogo
 Fonseca Cardoso
 Fonseca Soares
-Fontaínhas
+Fontainhas
 Fonte da Luz
 Fonte da Moura
 Fonte de Cima
@@ -860,6 +868,7 @@ Grijó
 Grupo 10 de Maio
 Guadiana
 Guedes de Azevedo
+Guedes Pinheiro
 Guerra Junqueiro
 Guilherme Bonfim Barreiros
 Guilherme Braga
@@ -911,13 +920,13 @@ Igreja de Cedofeita
 Igreja de Nevogilde
 Igreja de Paranhos
 Igreja de Ramalde
-Iise Losa
 Ildefonso
 Ilha Brava
 Ilha do Ferro
 Ilha Terceira
 Ilha Verde
 Ilhéu
+Ilse Losa
 Império
 Inácio Alberto de Sousa
 Inácio de Azevedo
@@ -943,7 +952,7 @@ Jerónimo Mendonça
 Joana Princesa
 João
 João Allen
-João Andersen
+João Andresen
 João Araújo Correia
 João Augusto Ribeiro
 João Baptista Lavanha
@@ -1089,6 +1098,7 @@ Loulé
 Loureiro
 Lourenço
 Lousada
+Lugar da Travessa
 Lugarinho
 Luís
 Luís António Verney
@@ -1149,6 +1159,7 @@ Manuel Nunes
 Manuel Pacheco de Miranda
 Manuel Pereira da Silva
 Manuel Pinheiro da Rocha
+Manuel Pinho
 Manuel Pinto de Azevedo
 Manuel Pinto de Azevedo Júnior
 Marão
@@ -1223,7 +1234,7 @@ Miramar
 Mirante
 Moçambique
 Mocidade da Arrábida
-Moínho de Vento
+Moinho de Vento
 Moinhos
 Molhe
 Mompilher
@@ -1294,6 +1305,7 @@ Nicolau Nazoni
 Nó das Areias
 Noeda
 Nogueiras
+nome_arteria
 Norte
 Norton de Matos
 Nova Alfândega
@@ -1334,6 +1346,7 @@ Orfeão Universitário do Porto
 Orlando Ribeiro
 Orquídeas
 Óscar da Silva
+Óscar Lopes
 Ourique
 Ouro
 Outeirinho
@@ -1701,6 +1714,7 @@ Vanzeller
 Vasco da Gama
 Vasco Lima Couto
 Vasco Lobeira
+Vasco Sá
 Vasco Valente
 Vasques de Mesquita
 Veloso
@@ -1738,6 +1752,7 @@ Vimioso
 Violetas
 Virgílio Pereira
 Virgínia de Moura
+Virgínia Leite de Sousa
 Viriato
 Virtudes
 Viso

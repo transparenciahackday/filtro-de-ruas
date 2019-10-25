@@ -172,9 +172,29 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,10811213,Rua,,,,Joaquim António de Aguiar,,,168,MULTITEMA,4049,056,PORTO
 13,12,38332,Porto,1081213,Travessa,,,,Alto de Vila,,,,,4150,061,PORTO
 13,12,38332,Porto,10831213,Rua,,,,Joaquim Kopke,,,,,4200,346,PORTO
+13,12,38332,Porto,108387100,Rua,,Padre,,António Joaquim da Silva Lopes,,,,,4250,045,PORTO
+13,12,38332,Porto,108395100,Rua,,,,Fernando Lanhas,,,,,4250,159,PORTO
+13,12,38332,Porto,108403100,Rua,,,,Alcino Soutinho,,,,,4250,159,PORTO
+13,12,38332,Porto,108405100,Rua,,Professor,,Vasco Sá,,,,,4200,299,PORTO
+13,12,38332,Porto,108407100,Escadas,do,,,Encontro,,,,,4200,285,PORTO
+13,12,38332,Porto,108409100,Rua,,,,Lugar da Travessa,,,,,4200,360,PORTO
 13,12,38332,Porto,10841213,Rua,,,,Joaquim Leitão,,Impares de 137 a 345,,,4100,289,PORTO
 13,12,38332,Porto,10841213,Rua,,,,Joaquim Leitão,,Impares de 351 a 373,,,4100,290,PORTO
 13,12,38332,Porto,10841213,Rua,,,,Joaquim Leitão,,Pares de 32 a 272,,,4100,288,PORTO
+13,12,38332,Porto,108414100,Rua,,,,Guedes Pinheiro,,,,,4200,121,PORTO
+13,12,38332,Porto,108415100,Rua,,,,Costa Mendes,,,,,4200,117,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Impares de 1 a 3,,,4200,118,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Impares de 21 a 29,,,4200,118,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Impares de 31 a 35,,,4200,123,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Impares de 37 a 401,,,4200,118,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Impares de 489 a 515,,,4200,123,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Impares de 7 a 17,,,4200,119,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Pares de 2 a 6,,,4200,118,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Pares de 20 a 30,,,4200,118,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Pares de 32 a 34,,,4200,123,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Pares de 324 a 528,,,4200,118,PORTO
+13,12,38332,Porto,108426100,Rua,do,,,Antigo Bairro da Areosa,,Pares de 8 a 18,,,4200,119,PORTO
+13,12,38332,Porto,108433100,Rua,,Comendador,,Álvaro Portela,,,,,4000,294,PORTO
 13,12,38332,Porto,10851213,Rua,,,,Joaquim de Vasconcelos,,,,,4050,311,PORTO
 13,12,38332,Porto,10861213,Rua,,,,Joaquim Vitorino Ribeiro,,,,,4350,207,PORTO
 13,12,38332,Porto,10871213,Rua,,,,Jorge Reinel,,Impares de 1 a 167,,,4150,436,PORTO
@@ -215,7 +235,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,11061213,Rua,,,,Júlio Dantas,,Pares de 278 a 454,,,4150,446,PORTO
 13,12,38332,Porto,11061213,Rua,,,,Júlio Dantas,,Pares de 60 a 224,,,4150,445,PORTO
 13,12,38332,Porto,11071213,Rua,,,,Júlio Dinis,,Escola Industrial Infante Dom Henrique,,,4050,319,PORTO
-13,12,38332,Porto,11071213,Rua,,,,Júlio Dinis,,Fast-Food Mister Pick Wick,,,4050,012,PORTO
 13,12,38332,Porto,11071213,Rua,,,,Júlio Dinis,,Impares de 15 a 157,,,4050,323,PORTO
 13,12,38332,Porto,11071213,Rua,,,,Júlio Dinis,,Impares de 201 a 247,,,4050,324,PORTO
 13,12,38332,Porto,11071213,Rua,,,,Júlio Dinis,,Impares de 501 a 699,,,4050,325,PORTO
@@ -574,7 +593,7 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,12591213,Rua,,,,Mocidade da Arrábida,,Impares de 95 a 339A,,,4150,496,PORTO
 13,12,38332,Porto,12591213,Rua,,,,Mocidade da Arrábida,,Pares de 162 a 200,,,4150,494,PORTO
 13,12,38332,Porto,12591213,Rua,,,,Mocidade da Arrábida,,Pares de 240 a 362,,,4150,495,PORTO
-13,12,38332,Porto,12601213,Largo,,,,Moínho de Vento,,,,,4050,390,PORTO
+13,12,38332,Porto,12601213,Largo,,,,Moinho de Vento,,,,,4050,390,PORTO
 13,12,38332,Porto,12611213,Rua,,,,Moinhos,,,,,4050,391,PORTO
 13,12,38332,Porto,1261213,Rua,,,,Anastácio Ramos,,,,,4100,049,PORTO
 13,12,38332,Porto,12631213,Rua,do,,,Molhe,,Impares de 181 a 403,,,4150,502,PORTO
@@ -976,15 +995,12 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,14271213,Rua,,Padre,,Alexandre,,Pares de 2 a 82,,,4100,036,PORTO
 13,12,38332,Porto,14281213,Largo,,Padre,,Américo,,,,,4050,044,PORTO
 13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Escola Primária Bairro de Francos,,,4100,045,PORTO
-13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 127 a 127,,,4100,047,PORTO
-13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 137 a 137,,,4100,046,PORTO
-13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 143 a 159,,,4100,047,PORTO
-13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 173 a 221,,,4100,046,PORTO
-13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 25 a 121,,,4100,046,PORTO
+13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 25 a 221,,,4100,046,PORTO
 13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Impares de 273 a 435,,,4100,047,PORTO
 13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Pares de 2 a 140,,,4100,044,PORTO
 13,12,38332,Porto,14291213,Rua,,Padre,,Américo,Bairro de Francos,Pares de 210 a 456,,,4100,045,PORTO
-13,12,38332,Porto,14301213,Rua,do,Padre,,António Coutinho,,Impares de 9 a 191,,,4250,046,PORTO
+13,12,38332,Porto,14301213,Rua,do,Padre,,António Coutinho,,Impares de 55 a 191,,,4250,045,PORTO
+13,12,38332,Porto,14301213,Rua,do,Padre,,António Coutinho,,Impares de 9 a 41,,,4250,046,PORTO
 13,12,38332,Porto,14301213,Rua,do,Padre,,António Coutinho,,Pares de 24 a 196,,,4250,045,PORTO
 13,12,38332,Porto,14311213,Rua,,Padre,,António Vieira,,Impares de 7 a 229,,,4300,031,PORTO
 13,12,38332,Porto,14311213,Rua,,Padre,,António Vieira,,Pares de 6 a 222,,,4300,030,PORTO
@@ -1476,7 +1492,7 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,1641213,Rua,de,,,António Emílio de Magalhães,,,,,4000,090,PORTO
 13,12,38332,Porto,16421213,Travessa,,,,Ramalde do Meio,,,,,4250,391,PORTO
 13,12,38332,Porto,16431213,Rua,de,,,Ramalho Ortigão,,,,,4000,407,PORTO
-13,12,38332,Porto,16441213,Calçada,da,,,Ranha,,Centro Paroquial,,,4350,267,PORTO
+13,12,38332,Porto,16441213,Calçada,da,,,Ranha,,Centro Paroquial,,,4350,271,PORTO
 13,12,38332,Porto,16441213,Calçada,da,,,Ranha,,Impares de 387 a 477,,,4350,272,PORTO
 13,12,38332,Porto,16441213,Calçada,da,,,Ranha,,Impares de 5 a 155,,,4350,270,PORTO
 13,12,38332,Porto,16441213,Calçada,da,,,Ranha,,Pares de 2 a 182,,,4350,267,PORTO
@@ -2635,17 +2651,17 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,20491213,Rua,,,,Nova das Areias,,,,,4300,362,PORTO
 13,12,38332,Porto,20501213,Largo,,Padre,,José de Oliveira,,,,,4300,269,PORTO
 13,12,38332,Porto,2051213,Rua,,Arquiteto,,Januário Godinho,,,,,4100,285,PORTO
-13,12,38332,Porto,20521213,Rua,,,,1,Bairro São João de Deus,,,,4350,334,PORTO
-13,12,38332,Porto,20531213,Rua,,,,2,Bairro São João de Deus,,,,4350,146,PORTO
-13,12,38332,Porto,20541213,Rua,,,,3,Bairro São João de Deus,,,,4350,333,PORTO
-13,12,38332,Porto,20551213,Rua,,,,4,Bairro São João de Deus,,,,4350,266,PORTO
-13,12,38332,Porto,20561213,Rua,,,,5,Bairro São João de Deus,,,,4350,107,PORTO
-13,12,38332,Porto,20571213,Rua,,,,6,Bairro São João de Deus,,,,4350,319,PORTO
+13,12,38332,Porto,20521213,Rua,,Dona,,Antónia Adelaide Ferreira,Bairro São João de Deus,,,,4350,334,PORTO
+13,12,38332,Porto,20531213,Rua,,,,Óscar Lopes,Bairro São João de Deus,,,,4350,146,PORTO
+13,12,38332,Porto,20541213,Rua,,,,António Ámen,Bairro São João de Deus,,,,4350,333,PORTO
+13,12,38332,Porto,20551213,Rua,,,,Fernando Mendonça,Bairro São João de Deus,,,,4350,266,PORTO
+13,12,38332,Porto,20561213,Rua,,,,Manuel Pinho,Bairro São João de Deus,,,,4350,107,PORTO
+13,12,38332,Porto,20571213,Rua,,,,Virgínia Leite de Sousa,Bairro São João de Deus,,,,4350,319,PORTO
 13,12,38332,Porto,20581213,Rua,,,,1,Bairro São Vicente de Paulo,,,,4300,493,PORTO
 13,12,38332,Porto,20591213,Rua,,,,2,Bairro São Vicente de Paulo,,,,4300,160,PORTO
 13,12,38332,Porto,20601213,Rua,,,,3,Bairro São Vicente de Paulo,,,,4300,491,PORTO
 13,12,38332,Porto,20611213,Rua,,,,4,Bairro São Vicente de Paulo,,,,4300,449,PORTO
-13,12,38332,Porto,2061213,Rua,de,,,João Andersen,,,,,4250,242,PORTO
+13,12,38332,Porto,2061213,Rua,,,,João Andresen,,,,,4250,242,PORTO
 13,12,38332,Porto,20621213,Rua,,,,5,Bairro São Vicente de Paulo,Impares de 1 a 101,,,4300,128,PORTO
 13,12,38332,Porto,20621213,Rua,,,,5,Bairro São Vicente de Paulo,Pares de 6 a 232,,,4300,127,PORTO
 13,12,38332,Porto,20631213,Rua,,,,6,Bairro São Vicente de Paulo,,,,4300,481,PORTO
@@ -2801,30 +2817,8 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,2651213,Rua,,,,Bainharia,,Pares de 2 a 64,,,4050,081,PORTO
 13,12,38332,Porto,2651213,Rua,,,,Bainharia,,Pares de 66 a 166,,,4050,082,PORTO
 13,12,38332,Porto,2661213,Travessa,,,,Bainharia,,,,,4050,085,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 1 a 3,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 11 a 17,,,4200,119,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 19 a 19,,,4200,120,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 21 a 29,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 215 a 215,,,4200,122,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 31 a 31,,,4200,123,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 321 a 321,,,4200,121,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 33 a 33,,,4200,120,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 35 a 35,,,4200,123,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 37 a 41,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 401 a 401,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 45 a 107,,,4200,120,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 489 a 515,,,4200,123,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 5 a 5,,,4200,120,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 7 a 7,,,4200,119,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 9 a 9,,,4200,120,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 2 a 6,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 20 a 20,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 22 a 22,,,4200,116,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 24 a 30,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 32 a 34,,,4200,123,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 324 a 528,,,4200,118,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 38 a 100,,,4200,116,PORTO
-13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 8 a 18,,,4200,119,PORTO
+13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Impares de 5 a 107,,,4200,120,PORTO
+13,12,38332,Porto,2671213,Rua,do,,,Bairro da Areosa,,Pares de 22 a 74,,,4200,116,PORTO
 13,12,38332,Porto,2691213,Rua,,,,Bairro do Comércio do Porto,,Impares de 5 a 169,,,4350,063,PORTO
 13,12,38332,Porto,2691213,Rua,,,,Bairro do Comércio do Porto,,Pares de 144 a 198,,,4350,062,PORTO
 13,12,38332,Porto,2691213,Rua,,,,Bairro do Comércio do Porto,,Pares de 4 a 132,,,4350,061,PORTO
@@ -2928,8 +2922,8 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,3131213,Rua,,,,Benjamim Gouveia,,,,,4200,127,PORTO
 13,12,38332,Porto,3141213,Rua,,,,Bento Carqueja,,,,,4350,074,PORTO
 13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Impares de 1 a 69,,,4200,130,PORTO
-13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Impares de 301 a 415,,,4200,132,PORTO
-13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Impares de 73 a 191,,,4200,131,PORTO
+13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Impares de 209 a 415,,,4200,132,PORTO
+13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Impares de 73 a 197,,,4200,131,PORTO
 13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Pares de 376 a 388,,,4200,129,PORTO
 13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,Pares de 38 a 314,,,4200,128,PORTO
 13,12,38332,Porto,3151213,Rua,,Professor,,Bento de Jesus Caraça,,,63,LOJA CTT EÇA DE QUEIRÓS (PORTO),4200,998,PORTO
@@ -2958,7 +2952,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,3301213,Rua,da,,,Boavista,,Pares de 524 a 626,,,4050,104,PORTO
 13,12,38332,Porto,3301213,Rua,da,,,Boavista,,Pares de 656 a 794,,,4050,105,PORTO
 13,12,38332,Porto,3301213,Rua,da,,,Boavista,,Pares de 820 a 892,,,4050,106,PORTO
-13,12,38332,Porto,3301213,Rua,da,,,Boavista,,,34,LOJA CTT LAPA (PORTO),4050,995,PORTO
 13,12,38332,Porto,3301213,Rua,da,,,Boavista,,,466,TRIBUNAL DO TRABALHO 2º JUÍZO,4099,015,PORTO
 13,12,38332,Porto,3301213,Rua,da,,,Boavista,,,626,TRIBUNAL DO TRABALHO 1º JUÍZO,4099,014,PORTO
 13,12,38332,Porto,3301213,Rua,da,,,Boavista,,,626,TRIBUNAL DO TRABALHO 3º JUÍZO,4099,016,PORTO
@@ -3025,7 +3018,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,3361213,Rua,,,,Bolhão,,Impares de 3 a 223,,,4000,112,PORTO
 13,12,38332,Porto,3361213,Rua,,,,Bolhão,,Pares de 26 a 216,,,4000,111,PORTO
 13,12,38332,Porto,3361213,Rua,,,,Bolhão,,,17,TRIBUNAL CRIMINAL,4049,005,PORTO
-13,12,38332,Porto,3361213,Rua,,,,Bolhão,,,221,XEROX PORTUGAL,4049,010,PORTO
 13,12,38332,Porto,3361213,Rua,,,,Bolhão,,,36,HIDRORUMO SA,4049,065,PORTO
 13,12,38332,Porto,3371213,Rua,,,,Bolsa,,,,,4050,116,PORTO
 13,12,38332,Porto,3381213,Rua,,,,Bom Jesus,,,,,4150,142,PORTO
@@ -3057,7 +3049,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,3481213,Travessa,do,,,Bonfim,,Impares de 11 a 49A,,,4300,075,PORTO
 13,12,38332,Porto,3481213,Travessa,do,,,Bonfim,,Pares de 40 a 60,,,4300,074,PORTO
 13,12,38332,Porto,3491213,Pátio,,,,Bonjardim,,,,,4000,113,PORTO
-13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Café Urca,,,4000,126,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Impares de 363 a 437A,,,4000,125,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Impares de 465 a 585,,,4000,126,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Impares de 57 a 345,,,4000,124,PORTO
@@ -3067,7 +3058,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Impares de 777 a 937,,,4000,131,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Impares de 941 a 977,,,4000,132,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Impares de 983 a 1153,,,4000,133,PORTO
-13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Inatel,,,4000,126,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Pares de 1000 a 1226,,,4000,122,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Pares de 102 a 300,,,4000,114,PORTO
 13,12,38332,Porto,3501213,Rua,do,,,Bonjardim,,Pares de 1240 a 1368,,,4000,123,PORTO
@@ -3367,9 +3357,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,4781213,Rua,,,,Castelo de Numão,,,,,4250,113,PORTO
 13,12,38332,Porto,4791213,Rua,,,,Castelo de Penedono,,,,,4250,114,PORTO
 13,12,38332,Porto,4811213,Rua,de,,,Castelo Rodrigo,Bairro São Roque da Lameira,,,,4350,096,PORTO
-13,12,38332,Porto,481213,Rua,,,,Águas Férreas de Campanhã,,Impares de 1 a 67,,,4300,013,PORTO
-13,12,38332,Porto,481213,Rua,,,,Águas Férreas de Campanhã,,Pares de 194 a 194,,,4300,013,PORTO
-13,12,38332,Porto,481213,Rua,,,,Águas Férreas de Campanhã,,Pares de 30 a 48,,,4300,012,PORTO
 13,12,38332,Porto,4821213,Rua,dos,,,Castelos,,Fundação Dom Francisco de Noronha,,,4250,118,PORTO
 13,12,38332,Porto,4821213,Rua,dos,,,Castelos,,Impares de 283 a 485,,,4250,118,PORTO
 13,12,38332,Porto,4821213,Rua,dos,,,Castelos,,Impares de 9 a 249,,,4250,117,PORTO
@@ -3815,7 +3802,7 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,610200000,Rua,,,,Maria Adelaide Freitas Gonçalves,,,,,4350,109,PORTO
 13,12,38332,Porto,610210000,Rua,de,,,A Renascença Portuguesa,,,,,4350,110,PORTO
 13,12,38332,Porto,610230000,Rua,da,,,Revista A Águia,,,,,4350,110,PORTO
-13,12,38332,Porto,610240000,Rua,,,,Iise Losa,,,,,4350,110,PORTO
+13,12,38332,Porto,610240000,Rua,,,,Ilse Losa,,,,,4350,110,PORTO
 13,12,38332,Porto,610280000,Jardim,de,,,Sophia,,,,,4050,074,PORTO
 13,12,38332,Porto,610310000,Rotunda,,,,Orlando Ribeiro,,,,,4250,013,PORTO
 13,12,38332,Porto,610351213,Travessa,,,,Paços de Ferreira,Bairro da Vilarinha,,,,4100,373,PORTO
@@ -3832,7 +3819,7 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,610651213,Largo,,,,Luís Braille,,,,,4050,010,PORTO
 13,12,38332,Porto,610661213,Rua,,,,Ofélia Diogo da Costa,,Impares de 25 a 115,,,4100,085,PORTO
 13,12,38332,Porto,610661213,Rua,,,,Ofélia Diogo da Costa,,Pares de 52 a 70,,,4100,085,PORTO
-13,12,38332,Porto,610661213,Rua,,,,Ofélia Diogo da Costa,,,39,EDP,4149,022,PORTO
+13,12,38332,Porto,610661213,Rua,,,,Ofélia Diogo da Costa,,,39,EDP DISTRIBUIÇÃO,4149,022,PORTO
 13,12,38332,Porto,610671213,Rua,,,,Alberto Serpa,,,,,4100,010,PORTO
 13,12,38332,Porto,610681213,Travessa,do,,,Amorim,,,,,4100,007,PORTO
 13,12,38332,Porto,610691213,Praceta,da,,,Banda de Ramalde,,,,,4100,004,PORTO
@@ -3860,7 +3847,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,610951213,Praça,,,,Rotary Internacional,,,,,4150,790,PORTO
 13,12,38332,Porto,610961213,Travessa,de,Santo,,Amaro,,,,,4150,008,PORTO
 13,12,38332,Porto,610971213,Viela,do,,,Sobreirinho,,,,,4150,001,PORTO
-13,12,38332,Porto,610981213,Rua,da,,,Amieira,,,,,4250,553,PORTO
 13,12,38332,Porto,610991213,Rua,,Professor,,António Cruz,,,,,4200,001,PORTO
 13,12,38332,Porto,611001213,Rua,,Professor,,Armando de Castro,,,,,4200,550,PORTO
 13,12,38332,Porto,611011213,Rua,,Conde,de,Aurora,,,,,4200,009,PORTO
@@ -4210,7 +4196,7 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,7021213,Rua,,Dom,,Pedro V,,Impares de 171 a 223,,,4150,603,PORTO
 13,12,38332,Porto,7021213,Rua,,Dom,,Pedro V,,Pares de 2 a 410,,,4150,601,PORTO
 13,12,38332,Porto,7031213,Rua,,,,Domingos Machado,,,,,4250,201,PORTO
-13,12,38332,Porto,7041213,Rua,,,,Domingos Sequeira,,Impares de 31 a 197,,,4050,232,PORTO
+13,12,38332,Porto,7041213,Rua,,,,Domingos Sequeira,,Impares de 31 a 317,,,4050,232,PORTO
 13,12,38332,Porto,7041213,Rua,,,,Domingos Sequeira,,Pares de 8 a 284,,,4050,230,PORTO
 13,12,38332,Porto,7051213,Praça,,Dona,,Filipa de Lencastre,,Portas de 1 a 76,,,4050,259,PORTO
 13,12,38332,Porto,7051213,Praça,,Dona,,Filipa de Lencastre,,Portas de 90 a 208,,,4050,260,PORTO
@@ -4484,7 +4470,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,794270000,Jardim,de,,,Severo Portela,,,,,4350,101,PORTO
 13,12,38332,Porto,7951213,Rua,do,,,Encontro,,,,,4200,285,PORTO
 13,12,38332,Porto,7961213,Praceta,de,,,Adelino Amaro da Costa,,,,,4050,012,PORTO
-13,12,38332,Porto,7961213,Praceta,de,,,Adelino Amaro da Costa,,,728,2ª SECÇÃO DO TRIBUNAL DO MINISTÉRIO PÚBLICO,4099,010,PORTO
 13,12,38332,Porto,7971213,Praceta,,Engenheiro,,António de Almeida,,,,,4100,065,PORTO
 13,12,38332,Porto,7981213,Rua,,Engenheiro,,António de Almeida,,,,,4100,067,PORTO
 13,12,38332,Porto,8001213,Rua,,Engenheiro,,Carlos Amarante,,Impares de 19 a 209,,,4250,090,PORTO
@@ -4746,9 +4731,9 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,Pares de 2 a 88,,,4000,224,PORTO
 13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,Pares de 440 a 588,,,4000,226,PORTO
 13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,Pares de 90 a 428,,,4000,225,PORTO
-13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,Snack-Bar Tropical,,,4000,225,PORTO
 13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,,49,ESCOLA SOARES DOS REIS,4049,007,PORTO
 13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,,582,VIAGENS TERRA NOVA,4049,039,PORTO
+13,12,38332,Porto,8881213,Rua,da,,,Firmeza,,,588,LOJA CTT MUNICÍPIO I ,4000,997,PORTO
 13,12,38332,Porto,8891213,Rua,,,,Flor-de-Lis,Bairro do Ilhéu,,,,4350,176,PORTO
 13,12,38332,Porto,8901213,Avenida,,,,Flor-de-Rosa,Bairro do Amial,Impares de 89 a 303,,,4250,208,PORTO
 13,12,38332,Porto,8901213,Avenida,,,,Flor-de-Rosa,Bairro do Amial,Pares de 28 a 274,,,4250,207,PORTO
@@ -4770,12 +4755,12 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,8961213,Rua,de,,,Fonseca Cardoso,,Impares de 7 a 43,,,4000,233,PORTO
 13,12,38332,Porto,8961213,Rua,de,,,Fonseca Cardoso,,Pares de 190 a 230,,,4000,232,PORTO
 13,12,38332,Porto,8961213,Rua,de,,,Fonseca Cardoso,,Pares de 4 a 178,,,4000,231,PORTO
-13,12,38332,Porto,8971213,Alameda,,,,Fontaínhas,,,,,4000,235,PORTO
-13,12,38332,Porto,8981213,Passeio,,,,Fontaínhas,,,,,4000,236,PORTO
-13,12,38332,Porto,8991213,Rua,,,,Fontaínhas,,Impares de 1 a 9,,,4000,238,PORTO
-13,12,38332,Porto,8991213,Rua,,,,Fontaínhas,,Impares de 157 a 241,,,4000,240,PORTO
-13,12,38332,Porto,8991213,Rua,,,,Fontaínhas,,Impares de 19 a 153A,,,4000,239,PORTO
-13,12,38332,Porto,8991213,Rua,,,,Fontaínhas,,Pares de 2 a 172,,,4000,237,PORTO
+13,12,38332,Porto,8971213,Alameda,,,,Fontainhas,,,,,4000,235,PORTO
+13,12,38332,Porto,8981213,Passeio,,,,Fontainhas,,,,,4000,236,PORTO
+13,12,38332,Porto,8991213,Rua,,,,Fontainhas,,Impares de 1 a 9,,,4000,238,PORTO
+13,12,38332,Porto,8991213,Rua,,,,Fontainhas,,Impares de 157 a 241,,,4000,240,PORTO
+13,12,38332,Porto,8991213,Rua,,,,Fontainhas,,Impares de 19 a 153A,,,4000,239,PORTO
+13,12,38332,Porto,8991213,Rua,,,,Fontainhas,,Pares de 2 a 172,,,4000,237,PORTO
 13,12,38332,Porto,9011213,Caminho,,,,Fonte de Cima,,,,,4150,338,PORTO
 13,12,38332,Porto,901213,Rua,,,,Alfredo Nunes de Matos,Bairro da Mouteira,Impares de 7 a 53,,,4150,051,PORTO
 13,12,38332,Porto,901213,Rua,,,,Alfredo Nunes de Matos,Bairro da Mouteira,Pares de 28 a 76,,,4150,050,PORTO
@@ -4954,7 +4939,6 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,9581213,Praça,,General,,Humberto Delgado,,,,CÂMARA MUNICIPAL DO PORTO,4049,001,PORTO
 13,12,38332,Porto,9581213,Praça,,General,,Humberto Delgado,,Impares de 263 a 339,,,4000,288,PORTO
 13,12,38332,Porto,9581213,Praça,,General,,Humberto Delgado,,Pares de 266 a 320,,,4000,286,PORTO
-13,12,38332,Porto,9581213,Praça,,General,,Humberto Delgado,,,320,LOJA CTT MUNICÍPIO (PORTO),4000,999,PORTO
 13,12,38332,Porto,9591213,Rua,,General,,Norton de Matos,,,,,4050,424,PORTO
 13,12,38332,Porto,95995100,Rua,da,,,Arroteia,,Impares de 13 a 135,,,4200,092,PORTO
 13,12,38332,Porto,95995100,Rua,da,,,Arroteia,,Pares de 2 a 104,,,4200,091,PORTO
@@ -5037,15 +5021,14 @@ cod_distrito,cod_concelho,cod_localidade,nome_localidade,cod_arteria,tipo_arteri
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,Pares de 284 a 360,,,4000,266,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,Pares de 64 a 146,,,4000,264,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,11,BOLETIM DO CONTRIBUINTE,4049,013,PORTO
-13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,110,PUBLIEXTENÇÃO,4049,038,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,111,COMPANHIA DE SEGUROS ALLIANZ,4049,036,PORTO
-13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,111,VIDA ECONÓMICA,4049,037,PORTO
+13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,136,LOJA CTT MUNICÍPIO II,4000,999,PORTO
+13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,14,VIDA ECONÓMICA,4049,037,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,146,ASSOCIAÇÃO TÊXTIL,4049,014,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,195,JORNAL NOTÍCIAS,4049,011,PORTO
-13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,216,EDP,4049,058,PORTO
+13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,216,EDP DISTRIBUIÇÃO,4049,058,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,250,MÁRIO BORGE,4049,016,PORTO
-13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,347,TRIBUNAL DA COMARCA,4049,059,PORTO
-13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,363,MAPFRE SEGUROS,4049,042,PORTO
+13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,347,MAPFRE SEGUROS,4049,042,PORTO
 13,12,38332,Porto,9831213,Rua,,,,Gonçalo Cristóvão,,,373,GOVERNO CIVIL DO PORTO,4049,071,PORTO
 13,12,38332,Porto,9841213,Rua,,,,Gonçalo Nunes Faria,Bairro Leão XIII,,,,4100,272,PORTO
 13,12,38332,Porto,9851213,Rua,,,,Gonçalo Pires Bandeira,Bairro Leão XIII,,,,4100,273,PORTO
